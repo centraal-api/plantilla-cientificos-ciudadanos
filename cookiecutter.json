@@ -3,5 +3,7 @@
     "correo_electronico": "jane.doe@haceb.com",
     "nombre_notebook": "Proyecto",
     "area": "comercial",
-    "descripcion_corta_notebook": "Analitica por los cientificos ciudadanos"
+    "descripcion_corta_notebook": "Analitica por los cientificos ciudadanos",
+    "tenant": "5368fc5a-2692-4a6a-b226-e2802e94e22b",
+    "nombre_datalake": "5368fc5a-2692-4a6a-b226-e2802e94e22b"
 }
